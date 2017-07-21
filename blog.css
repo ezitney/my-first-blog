@@ -1,0 +1,32 @@
+/*
+Remember the semicolon! 
+DevTools: Command+Option+I;
+
+Command+tab to cycle through apps
+*/
+
+
+
+h1#blog-title {
+	margin-bottom: 0;
+}
+
+h1.chapter-title{
+	font-size: 20px;
+	margin-top: 0;
+}
+
+h1{
+	font-weight: 200;
+	color: pink;
+}
+
+body {
+	text-align: center;
+	background: #F2E6CE;
+	font-family: 'Dosis', sans-serif;
+}
+
+p{
+	color: white;
+}
